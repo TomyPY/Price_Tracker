@@ -18,13 +18,13 @@ To use it you have to create a bot through BotFather https://t.me/botfather. Get
 
 #Commands:
 
-/start || Start the bot
-/help || See all commands
-/scrape Refresh || prices of all games. (It takes 15 minutes)
-/track_list See || all games in your tracklist
-/track_list_add || Add a game into tracklist
-/track_list_remove || Remove a game from tracklist
-/track_list_check || Compare actual prices and tracklist prices
-/game_price || Checkout a game price
+/start || Start the bot.
+/help || See all commands.
+/scrape Refresh || prices of all games. (It takes 15 minutes).
+/track_list See || all games in your tracklist.
+/track_list_add || Add a game into tracklist.
+/track_list_remove || Remove a game from tracklist.
+/track_list_check || Compare actual prices and tracklist prices.
+/game_price || Checkout a game price.
 
 ⚠️YOU NEED TO PUT ONLY THE COMMAND DOESN'T NEED ANY PARAMETER⚠️

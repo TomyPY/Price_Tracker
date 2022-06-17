@@ -1,7 +1,7 @@
 # Price_Tracker
 Telegram Bot to track games prices
 
-#Introduction:
+##Introduction:
 
 Hello world! This is a game price tracker for STEAM, XBOX STORE and PLAYSTATION STORE.
 With this bot you can have a database with allgames of STEAM, XBOX STORE and PLAYSTATION STORE whis his prices.

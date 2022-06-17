@@ -17,14 +17,13 @@ $ pip install pyTelegramBotAPI -r requeriments.txt
 To use it you have to create a bot through BotFather https://t.me/botfather. Get the API_ID and replace it in the API_ID variable in the code, then just turn on the bot!
 
 #Commands:
+- `/start` - Start the bot
+- `/help` - See all commands
+- `/scrape` - Refresh prices of all games. (It takes 15 minutes).
+- `/track_list` -  See all games in your tracklist.
+- `/track_list_add` -  Add a game into tracklist.
+- `/track_list_remove` - Remove a game from tracklist.
+- `/track_list_check` - Compare actual prices and tracklist prices.
+- `/game_price` - Checkout a game price.
 
-/start || Start the bot\n
-/help || See all commands.\n
-/scrape Refresh || prices of all games. (It takes 15 minutes).\n
-/track_list See || all games in your tracklist.\n
-/track_list_add || Add a game into tracklist.\n
-/track_list_remove || Remove a game from tracklist.\n
-/track_list_check || Compare actual prices and tracklist prices.\n
-/game_price || Checkout a game price.\n
-
-⚠️YOU NEED TO PUT ONLY THE COMMAND DOESN'T NEED ANY PARAMETER⚠️
+YOU NEED TO PUT ONLY THE COMMAND DOESN'T NEED ANY PARAMETER

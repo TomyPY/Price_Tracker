@@ -27,3 +27,9 @@ To use it you have to create a bot through BotFather https://t.me/botfather. Get
 - `/game_price` - Checkout a game price.
 
 YOU NEED TO PUT ONLY THE COMMAND DOESN'T NEED ANY PARAMETER
+
+#EXAMPLE:
+
+![image](https://user-images.githubusercontent.com/100825478/174222945-15251e12-1fd8-48c1-897f-b2d374930917.png)
+![image](https://user-images.githubusercontent.com/100825478/174222967-e1b98af6-92e1-4723-a203-40b2d22e3e83.png)
+![image](https://user-images.githubusercontent.com/100825478/174223024-c954be9c-16ad-46dc-bbcc-d07e6b39d447.png)
